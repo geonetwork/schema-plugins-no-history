@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gsr
+END
+spatialReferencing.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gsr/spatialReferencing.xsd
+END
+gsr.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gsr/gsr.xsd
+END

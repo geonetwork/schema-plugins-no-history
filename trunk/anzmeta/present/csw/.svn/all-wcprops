@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/geonetwork/!svn/ver/8036/schemaPlugins/trunk/anzmeta/present/csw
+END
+ogc-brief.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/geonetwork/!svn/ver/7633/schemaPlugins/trunk/anzmeta/present/csw/ogc-brief.xsl
+END
+ogc-summary.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/geonetwork/!svn/ver/7742/schemaPlugins/trunk/anzmeta/present/csw/ogc-summary.xsl
+END
+ogc-full.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/geonetwork/!svn/ver/8036/schemaPlugins/trunk/anzmeta/present/csw/ogc-full.xsl
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/geonetwork/!svn/ver/7398/schemaPlugins/trunk/eml-gbif/schema
+END
+dc.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/geonetwork/!svn/ver/7398/schemaPlugins/trunk/eml-gbif/schema/dc.xsd
+END
+eml.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/geonetwork/!svn/ver/7398/schemaPlugins/trunk/eml-gbif/schema/eml.xsd
+END
+XMLSchema.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/geonetwork/!svn/ver/7398/schemaPlugins/trunk/eml-gbif/schema/XMLSchema.dtd
+END
+eml-gbif-profile.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/geonetwork/!svn/ver/7398/schemaPlugins/trunk/eml-gbif/schema/eml-gbif-profile.xsd
+END
+xml.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/geonetwork/!svn/ver/7398/schemaPlugins/trunk/eml-gbif/schema/xml.xsd
+END

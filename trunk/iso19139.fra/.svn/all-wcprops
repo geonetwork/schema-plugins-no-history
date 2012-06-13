@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/geonetwork/!svn/ver/9101/schemaPlugins/trunk/iso19139.fra
+END
+index-fields.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/geonetwork/!svn/ver/8996/schemaPlugins/trunk/iso19139.fra/index-fields.xsl
+END
+set-thumbnail.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/set-thumbnail.xsl
+END
+schematron-rules-geonetwork.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/schematron-rules-geonetwork.xsl
+END
+extract-uuid.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/extract-uuid.xsl
+END
+extract-thumbnails.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/extract-thumbnails.xsl
+END
+unset-thumbnail.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/unset-thumbnail.xsl
+END
+oasis-catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/oasis-catalog.xml
+END
+suggest.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/geonetwork/!svn/ver/8507/schemaPlugins/trunk/iso19139.fra/suggest.xsl
+END
+schematron-rules-iso.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/schematron-rules-iso.xsl
+END
+update-child-from-parent-info.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/update-child-from-parent-info.xsl
+END
+schema-substitutes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/schema-substitutes.xml
+END
+extract-gml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/extract-gml.xsl
+END
+schema.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/schema.xsd
+END
+schema-ident.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/geonetwork/!svn/ver/8996/schemaPlugins/trunk/iso19139.fra/schema-ident.xml
+END
+language-index-fields.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/geonetwork/!svn/ver/8996/schemaPlugins/trunk/iso19139.fra/language-index-fields.xsl
+END
+set-uuid.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/set-uuid.xsl
+END
+schema-suggestions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/geonetwork/!svn/ver/8321/schemaPlugins/trunk/iso19139.fra/schema-suggestions.xml
+END
+schematron-rules-inspire.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/geonetwork/!svn/ver/8178/schemaPlugins/trunk/iso19139.fra/schematron-rules-inspire.xsl
+END
+extract-date-modified.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/geonetwork/!svn/ver/7941/schemaPlugins/trunk/iso19139.fra/extract-date-modified.xsl
+END
+update-fixed-info.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/geonetwork/!svn/ver/8996/schemaPlugins/trunk/iso19139.fra/update-fixed-info.xsl
+END

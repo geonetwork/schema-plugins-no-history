@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/geonetwork/!svn/ver/9188/schemaPlugins/trunk/schematrons/rules
+END
+schematron-rules-iso.sch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/schematrons/rules/schematron-rules-iso.sch
+END
+schematron-rules-none.sch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/schematrons/rules/schematron-rules-none.sch
+END
+schematron-rules-geonetwork.sch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/schematrons/rules/schematron-rules-geonetwork.sch
+END
+schematron-rules-iso-mcp.sch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/geonetwork/!svn/ver/8828/schemaPlugins/trunk/schematrons/rules/schematron-rules-iso-mcp.sch
+END
+schematron-rules-inspire.sch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/schematrons/rules/schematron-rules-inspire.sch
+END
+schematron-rules-iso-codeListValidation.sch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/schematrons/rules/schematron-rules-iso-codeListValidation.sch
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/geonetwork/!svn/ver/9098/schemaPlugins/trunk/anzmeta/present
+END
+metadata-anzmeta.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/geonetwork/!svn/ver/9098/schemaPlugins/trunk/anzmeta/present/metadata-anzmeta.xsl
+END
+metadata-anzmeta-fop.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/geonetwork/!svn/ver/8020/schemaPlugins/trunk/anzmeta/present/metadata-anzmeta-fop.xsl
+END
+metadata-anzmeta-edit.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/geonetwork/!svn/ver/9097/schemaPlugins/trunk/anzmeta/present/metadata-anzmeta-edit.xsl
+END
+metadata-anzmeta-view.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/geonetwork/!svn/ver/8036/schemaPlugins/trunk/anzmeta/present/metadata-anzmeta-view.xsl
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/geonetwork/!svn/ver/8302/schemaPlugins/trunk/iso19139.anzlic/process
+END
+update-onlineSrc.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/geonetwork/!svn/ver/8302/schemaPlugins/trunk/iso19139.anzlic/process/update-onlineSrc.xsl
+END
+add-extent-from-geokeywords.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.anzlic/process/add-extent-from-geokeywords.xsl
+END
+keywords-comma-exploder.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.anzlic/process/keywords-comma-exploder.xsl
+END
+update-srv-attachDataset.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.anzlic/process/update-srv-attachDataset.xsl
+END
+inspire-add-conformity.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.anzlic/process/inspire-add-conformity.xsl
+END
+update-srv-detachDataset.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.anzlic/process/update-srv-detachDataset.xsl
+END
+keywords-mapper.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.anzlic/process/keywords-mapper.xsl
+END
+thumbnails-host-url-relocator.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.anzlic/process/thumbnails-host-url-relocator.xsl
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/geonetwork/!svn/ver/8926/schemaPlugins/trunk/geobru/iso19139.geobru/convert
+END
+oai_dc.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/convert/oai_dc.xsl
+END
+DIFToISO.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/convert/DIFToISO.xsl
+END
+19119ToJZKitRepository.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/convert/19119ToJZKitRepository.xsl
+END
+CDMCoords-to-ISO19139Keywords.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/convert/CDMCoords-to-ISO19139Keywords.xsl
+END
+functions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/geonetwork/!svn/ver/8926/schemaPlugins/trunk/geobru/iso19139.geobru/convert/functions.xsl
+END
+to19139.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/geonetwork/!svn/ver/8912/schemaPlugins/trunk/geobru/iso19139.geobru/convert/to19139.xsl
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd
+END
+maintenance.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/maintenance.xsd
+END
+dataQuality.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/dataQuality.xsd
+END
+applicationSchema.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/applicationSchema.xsd
+END
+freeText.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/freeText.xsd
+END
+identification.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/identification.xsd
+END
+portrayalCatalogue.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/portrayalCatalogue.xsd
+END
+referenceSystem.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/referenceSystem.xsd
+END
+metadataApplication.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/metadataApplication.xsd
+END
+gmd.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/gmd.xsd
+END
+extent.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/extent.xsd
+END
+constraints.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/constraints.xsd
+END
+content.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/content.xsd
+END
+citation.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/citation.xsd
+END
+metadataExtension.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/metadataExtension.xsd
+END
+metadataEntity.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/metadataEntity.xsd
+END
+distribution.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/distribution.xsd
+END
+spatialRepresentation.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema/gmd/spatialRepresentation.xsd
+END

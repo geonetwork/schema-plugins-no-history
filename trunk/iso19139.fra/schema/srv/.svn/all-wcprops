@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/schema/srv
+END
+srv.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/schema/srv/srv.xsd
+END
+serviceMetadata.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/schema/srv/serviceMetadata.xsd
+END
+serviceModel.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/schema/srv/serviceModel.xsd
+END

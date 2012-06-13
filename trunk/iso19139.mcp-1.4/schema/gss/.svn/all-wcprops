@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp-1.4/schema/gss
+END
+geometry.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp-1.4/schema/gss/geometry.xsd
+END
+gss.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp-1.4/schema/gss/gss.xsd
+END

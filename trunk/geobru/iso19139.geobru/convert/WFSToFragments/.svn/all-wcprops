@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/convert/WFSToFragments
+END
+geoserver_boundary_fragments.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/convert/WFSToFragments/geoserver_boundary_fragments.xsl
+END
+deegree22_philosopher_fragments.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/convert/WFSToFragments/deegree22_philosopher_fragments.xsl
+END

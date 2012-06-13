@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/geonetwork/!svn/ver/8993/schemaPlugins/trunk/iso19139.mcp-1.4/convert
+END
+oai_dc.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp-1.4/convert/oai_dc.xsl
+END
+xml_iso19139.mcp-1.4.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/geonetwork/!svn/ver/8358/schemaPlugins/trunk/iso19139.mcp-1.4/convert/xml_iso19139.mcp-1.4.xsl
+END
+rif.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/geonetwork/!svn/ver/7361/schemaPlugins/trunk/iso19139.mcp-1.4/convert/rif.xsl
+END
+to19139.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/geonetwork/!svn/ver/8993/schemaPlugins/trunk/iso19139.mcp-1.4/convert/to19139.xsl
+END

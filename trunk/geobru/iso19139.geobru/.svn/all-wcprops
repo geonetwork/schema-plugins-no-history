@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/geonetwork/!svn/ver/9151/schemaPlugins/trunk/geobru/iso19139.geobru
+END
+index-fields.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/geonetwork/!svn/ver/8926/schemaPlugins/trunk/geobru/iso19139.geobru/index-fields.xsl
+END
+set-thumbnail.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/set-thumbnail.xsl
+END
+extract-uuid.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/extract-uuid.xsl
+END
+extract-thumbnails.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/extract-thumbnails.xsl
+END
+unset-thumbnail.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/unset-thumbnail.xsl
+END
+oasis-catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/oasis-catalog.xml
+END
+suggest.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/suggest.xsl
+END
+update-child-from-parent-info.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/update-child-from-parent-info.xsl
+END
+schema-substitutes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema-substitutes.xml
+END
+extract-gml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/extract-gml.xsl
+END
+schema.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema.xsd
+END
+schema-ident.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema-ident.xml
+END
+language-index-fields.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/geonetwork/!svn/ver/9151/schemaPlugins/trunk/geobru/iso19139.geobru/language-index-fields.xsl
+END
+set-uuid.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/set-uuid.xsl
+END
+schema-suggestions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/schema-suggestions.xml
+END
+extract-date-modified.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/extract-date-modified.xsl
+END
+update-fixed-info.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/geonetwork/!svn/ver/8926/schemaPlugins/trunk/geobru/iso19139.geobru/update-fixed-info.xsl
+END

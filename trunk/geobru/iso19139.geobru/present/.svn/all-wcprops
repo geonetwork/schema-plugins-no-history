@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/geonetwork/!svn/ver/9148/schemaPlugins/trunk/geobru/iso19139.geobru/present
+END
+metadata-iso19139-utils.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/geonetwork/!svn/ver/8926/schemaPlugins/trunk/geobru/iso19139.geobru/present/metadata-iso19139-utils.xsl
+END
+metadata-iso19139.geobru.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/geonetwork/!svn/ver/9147/schemaPlugins/trunk/geobru/iso19139.geobru/present/metadata-iso19139.geobru.xsl
+END
+metadata-iso19139.geobru-edit.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/geonetwork/!svn/ver/8902/schemaPlugins/trunk/geobru/iso19139.geobru/present/metadata-iso19139.geobru-edit.xsl
+END
+metadata-iso19139.geobru-view.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/geonetwork/!svn/ver/9148/schemaPlugins/trunk/geobru/iso19139.geobru/present/metadata-iso19139.geobru-view.xsl
+END

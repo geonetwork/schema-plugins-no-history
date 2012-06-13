@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp/schema/gco
+END
+gcoBase.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp/schema/gco/gcoBase.xsd
+END
+basicTypes.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp/schema/gco/basicTypes.xsd
+END
+gco.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp/schema/gco/gco.xsd
+END

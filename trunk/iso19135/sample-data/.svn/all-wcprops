@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/geonetwork/!svn/ver/9155/schemaPlugins/trunk/iso19135/sample-data
+END
+cf-conventions-standard-names-units.mef
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/geonetwork/!svn/ver/9132/schemaPlugins/trunk/iso19135/sample-data/cf-conventions-standard-names-units.mef
+END
+cf-conventions-standard-names.mef
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/geonetwork/!svn/ver/9117/schemaPlugins/trunk/iso19135/sample-data/cf-conventions-standard-names.mef
+END
+anzlic-geographic-extent-names-register.mef
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/geonetwork/!svn/ver/9087/schemaPlugins/trunk/iso19135/sample-data/anzlic-geographic-extent-names-register.mef
+END
+udunitsDERIVED.mef
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/geonetwork/!svn/ver/9117/schemaPlugins/trunk/iso19135/sample-data/udunitsDERIVED.mef
+END
+anzlic-search-words-register.mef
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/geonetwork/!svn/ver/8897/schemaPlugins/trunk/iso19135/sample-data/anzlic-search-words-register.mef
+END
+ands-rifcs-xslts.mef
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/geonetwork/!svn/ver/9155/schemaPlugins/trunk/iso19135/sample-data/ands-rifcs-xslts.mef
+END
+udunitsACCEPTED.mef
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/geonetwork/!svn/ver/9117/schemaPlugins/trunk/iso19135/sample-data/udunitsACCEPTED.mef
+END
+udunitsSI.mef
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/geonetwork/!svn/ver/9117/schemaPlugins/trunk/iso19135/sample-data/udunitsSI.mef
+END
+nasa-gcmd-science-keywords-register.mef
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/geonetwork/!svn/ver/8901/schemaPlugins/trunk/iso19135/sample-data/nasa-gcmd-science-keywords-register.mef
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/geonetwork/!svn/ver/9009/schemaPlugins/trunk/iso19139.mcp-1.4/loc/eng
+END
+labels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/geonetwork/!svn/ver/8931/schemaPlugins/trunk/iso19139.mcp-1.4/loc/eng/labels.xml
+END
+codelists.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/geonetwork/!svn/ver/9009/schemaPlugins/trunk/iso19139.mcp-1.4/loc/eng/codelists.xml
+END
+strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/geonetwork/!svn/ver/8931/schemaPlugins/trunk/iso19139.mcp-1.4/loc/eng/strings.xml
+END

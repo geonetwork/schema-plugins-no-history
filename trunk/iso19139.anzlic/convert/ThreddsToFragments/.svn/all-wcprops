@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/geonetwork/!svn/ver/7918/schemaPlugins/trunk/iso19139.anzlic/convert/ThreddsToFragments
+END
+thredds-metadata.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/geonetwork/!svn/ver/7918/schemaPlugins/trunk/iso19139.anzlic/convert/ThreddsToFragments/thredds-metadata.xsl
+END
+netcdf-attributes.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/geonetwork/!svn/ver/7918/schemaPlugins/trunk/iso19139.anzlic/convert/ThreddsToFragments/netcdf-attributes.xsl
+END

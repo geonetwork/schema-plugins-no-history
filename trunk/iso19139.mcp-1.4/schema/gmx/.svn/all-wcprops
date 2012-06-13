@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp-1.4/schema/gmx
+END
+codelistItem.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp-1.4/schema/gmx/codelistItem.xsd
+END
+extendedTypes.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp-1.4/schema/gmx/extendedTypes.xsd
+END
+crsItem.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp-1.4/schema/gmx/crsItem.xsd
+END
+catalogues.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp-1.4/schema/gmx/catalogues.xsd
+END
+gmx.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp-1.4/schema/gmx/gmx.xsd
+END
+uomItem.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp-1.4/schema/gmx/uomItem.xsd
+END
+gmxUsage.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/geonetwork/!svn/ver/7346/schemaPlugins/trunk/iso19139.mcp-1.4/schema/gmx/gmxUsage.xsd
+END

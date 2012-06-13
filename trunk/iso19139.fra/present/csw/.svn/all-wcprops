@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/geonetwork/!svn/ver/8302/schemaPlugins/trunk/iso19139.fra/present/csw
+END
+iso-full.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/present/csw/iso-full.xsl
+END
+fra-brief.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/present/csw/fra-brief.xsl
+END
+ogc-brief.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/present/csw/ogc-brief.xsl
+END
+iso-brief.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/present/csw/iso-brief.xsl
+END
+fra-summary.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/present/csw/fra-summary.xsl
+END
+ogc-summary.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/geonetwork/!svn/ver/8302/schemaPlugins/trunk/iso19139.fra/present/csw/ogc-summary.xsl
+END
+iso-summary.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/present/csw/iso-summary.xsl
+END
+fra-full.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/present/csw/fra-full.xsl
+END
+ogc-full.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/geonetwork/!svn/ver/7330/schemaPlugins/trunk/iso19139.fra/present/csw/ogc-full.xsl
+END

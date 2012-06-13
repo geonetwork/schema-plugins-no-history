@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/geonetwork/!svn/ver/9097/schemaPlugins/trunk/iso19139.mcp-1.4/present
+END
+metadata-iso19139.mcp-1.4.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/geonetwork/!svn/ver/9097/schemaPlugins/trunk/iso19139.mcp-1.4/present/metadata-iso19139.mcp-1.4.xsl
+END
+metadata-iso19139.mcp-1.4-fop.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/geonetwork/!svn/ver/8020/schemaPlugins/trunk/iso19139.mcp-1.4/present/metadata-iso19139.mcp-1.4-fop.xsl
+END
+metadata-iso19139.mcp-1.4-edit.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/geonetwork/!svn/ver/9097/schemaPlugins/trunk/iso19139.mcp-1.4/present/metadata-iso19139.mcp-1.4-edit.xsl
+END
+metadata-iso19139.mcp-1.4-view.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/geonetwork/!svn/ver/8426/schemaPlugins/trunk/iso19139.mcp-1.4/present/metadata-iso19139.mcp-1.4-view.xsl
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/geonetwork/!svn/ver/8689/schemaPlugins/trunk/iso19139.mcp/convert/ThreddsDIFToISO
+END
+CDMCoords-to-ISO19139MCPDataParameters.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/geonetwork/!svn/ver/8689/schemaPlugins/trunk/iso19139.mcp/convert/ThreddsDIFToISO/CDMCoords-to-ISO19139MCPDataParameters.xsl
+END
+DIFToISO.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/geonetwork/!svn/ver/8689/schemaPlugins/trunk/iso19139.mcp/convert/ThreddsDIFToISO/DIFToISO.xsl
+END
+CDMCoords-to-ISO19139Keywords.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/geonetwork/!svn/ver/8689/schemaPlugins/trunk/iso19139.mcp/convert/ThreddsDIFToISO/CDMCoords-to-ISO19139Keywords.xsl
+END

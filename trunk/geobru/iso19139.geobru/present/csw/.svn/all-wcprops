@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/geonetwork/!svn/ver/8911/schemaPlugins/trunk/geobru/iso19139.geobru/present/csw
+END
+iso-full.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/present/csw/iso-full.xsl
+END
+ogc-brief.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/present/csw/ogc-brief.xsl
+END
+geobru-summary.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/geonetwork/!svn/ver/8911/schemaPlugins/trunk/geobru/iso19139.geobru/present/csw/geobru-summary.xsl
+END
+iso-brief.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/present/csw/iso-brief.xsl
+END
+geobru-full.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/present/csw/geobru-full.xsl
+END
+ogc-summary.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/present/csw/ogc-summary.xsl
+END
+iso-summary.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/present/csw/iso-summary.xsl
+END
+geobru-brief.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/geonetwork/!svn/ver/8911/schemaPlugins/trunk/geobru/iso19139.geobru/present/csw/geobru-brief.xsl
+END
+ogc-full.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/geonetwork/!svn/ver/8719/schemaPlugins/trunk/geobru/iso19139.geobru/present/csw/ogc-full.xsl
+END

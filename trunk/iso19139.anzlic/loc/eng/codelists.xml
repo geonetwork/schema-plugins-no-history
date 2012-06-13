@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	
+ * Hide in edit mode : If some codelist needs to be hidden
+ in edit mode, the hideInEditMode attribute could be added
+ to any entries.
+ 
+ eg.
+	<entry hideInEditMode="true">
+	
+ This will restrict the number of available entries for end
+ user editors and keep all records ISO compatible when using
+ codelist (eg. harvested records could use codelist hidden
+ in local node and needs to be displayed in view mode).
+ 
+ By default, this attribute is not used.
+-->
+<codelists xmlns:gmd="http://www.isotc211.org/2005/gmd">
+	<!-- ==================================================== -->
+	<codelist name="gmd:MD_ScopeCode">
+		<entry>
+			<code>attribute</code>
+			<label>Attribute</label>
+			<description>Information applies to the attribute class</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>attributeType</code>
+			<label>Attribute type</label>
+			<description>Information applies to the characteristic of a feature</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>collectionHardware</code>
+			<label>Collection hardware</label>
+			<description>Information applies to the collection hardware class</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>collectionSession</code>
+			<label>Collection session</label>
+			<description>Information applies to the collection session</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>dataset</code>
+			<label>Dataset</label>
+			<description>Information applies to the dataset</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>series</code>
+			<label>Series</label>
+			<description>Information applies to the series</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>nonGeographicDataset</code>
+			<label>Non geographic dataset</label>
+			<description>Information applies to non-geographic data</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>dimensionGroup</code>
+			<label>Dimension group</label>
+			<description>Information applies to a dimension group</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>feature</code>
+			<label>Feature</label>
+			<description>Information applies to a feature</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>featureType</code>
+			<label>Feature type</label>
+			<description>Information applies to a feature type</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>propertyType</code>
+			<label>Property type</label>
+			<description>Information applies to a property type</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>fieldSession</code>
+			<label>Field session</label>
+			<description>Information applies to a field session</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>software</code>
+			<label>Software</label>
+			<description>Information applies to a computer program or routine</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>service</code>
+			<label>Service</label>
+			<description>Information applies to a capability which a service provider entity makes available to a service user entity through a set of interfaces that define a behaviour, such as a use case</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>model</code>
+			<label>Model</label>
+			<description>Information applies to a copy or imitation of an existing or hypothetical object</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>tile</code>
+			<label>Tile</label>
+			<description>Information applies to a tile, a spatial subset of geographic data</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- new scope codes from GA -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>modelSession</code>
+			<label>Model Session</label>
+			<description>Information applies to a model session or model run for a particular model</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>document</code>
+			<label>Document</label>
+			<description>Information applies to a document such as a publication, report, record etc.</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>profile</code>
+			<label>Profile</label>
+			<description>Information applies to a profile of an ISO TC 211 standard or specification</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>dataRepository</code>
+			<label>Data Repository</label>
+			<description>Information applies to a data repository such as a Catalogue Service, Relational Database, Web Registry</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>codeList</code>
+			<label>Code List</label>
+			<description>Information applies to a code list according to the CT_CodelistCatalogue format</description>
+		</entry>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<entry>
+			<code>project</code>
+			<label>Project</label>
+			<description>Information applies to a project or programme</description>
+		</entry>
+	</codelist>
+</codelists>
