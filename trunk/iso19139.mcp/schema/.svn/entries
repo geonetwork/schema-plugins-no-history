@@ -1,61 +1,0 @@
-10
-
-dir
-9257
-https://geonetwork.svn.sourceforge.net/svnroot/geonetwork/schemaPlugins/trunk/iso19139.mcp/schema
-https://geonetwork.svn.sourceforge.net/svnroot/geonetwork
-
-
-
-2012-06-07T15:01:23.313232Z
-9189
-sppigot
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ff403467-3f20-0410-99e5-ff581e626a08
-
-extensions
-dir
-
-gml
-dir
-
-xlink
-dir
-
-gmd
-dir
-
-gco
-dir
-
-resources
-dir
-
-srv
-dir
-
-gmx
-dir
-
-gsr
-dir
-
-gss
-dir
-
-gts
-dir
-
